@@ -1,0 +1,7 @@
+parameters:
+#    italodom_pagseguro.example.class: Italodom\PagseguroBundle\Example
+
+services:
+#    italodom_pagseguro.example:
+#        class: %italodom_pagseguro.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
